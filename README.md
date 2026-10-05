@@ -1,6 +1,8 @@
 # 💫 About Me:
 **I’m currently working on**<br>💻 Beginner programming projects and building my coding skills<br><br>**I’m looking to collaborate on**<br>🤝 Beginner-friendly web development, programming & open-source projects<br><br>**I’m looking for help with**<br>🚀 Improving my coding skills and learning real-world development<br><br>**I’m currently learning**<br>🌱 C, Python, HTML, CSS, JavaScript & Programming<br>🤖 Exploring AI and how it can be used in real-world projects<br><br>**Ask me about**<br>💻 Programming, beginner projects, web development & my coding journey<br><br>**Fun fact**<br>🚀 I’m learning one technology at a time and turning my ideas into projects<br>
 
+## 🎨 GitAscii Profile
+[View or download my GitAscii profile layout](./gitascii.json)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codenova_68) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/roshan kumar jha) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@RoshankingYT) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@codenova-h8r) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumarjharaushan714@gmail.com) 
