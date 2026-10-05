@@ -1,3 +1,12 @@
+<div align="center">
+  <img
+    src="https://gitascii.com/api/kumarjharaushan714-gif"
+    alt="GitAscii profile for Raushan Kumar Jha"
+    width="100%"
+  />
+</div>
+
+
 # 💫 About Me:
 **I’m currently working on**<br>💻 Beginner programming projects and building my coding skills<br><br>**I’m looking to collaborate on**<br>🤝 Beginner-friendly web development, programming & open-source projects<br><br>**I’m looking for help with**<br>🚀 Improving my coding skills and learning real-world development<br><br>**I’m currently learning**<br>🌱 C, Python, HTML, CSS, JavaScript & Programming<br>🤖 Exploring AI and how it can be used in real-world projects<br><br>**Ask me about**<br>💻 Programming, beginner projects, web development & my coding journey<br><br>**Fun fact**<br>🚀 I’m learning one technology at a time and turning my ideas into projects<br>
 
